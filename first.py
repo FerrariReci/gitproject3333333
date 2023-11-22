@@ -4,7 +4,7 @@ def my_function():
 
 def main():
     print('My first git program')
-    print('And I change it every')
+    print('And I chant every')
 
 if __name__ == '__main__':
     main()
